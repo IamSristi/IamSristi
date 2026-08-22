@@ -73,13 +73,4 @@ currently: "Building projects & leveling up skills"
 </td>
 </tr>
 </table>
-## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sristi-paul-530037279/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-2b2100?style=for-the-badge&logo=linkedin&logoColor=FBBF24&labelColor=2b2100" alt="LinkedIn"/>
-</a>
-<a href="mailto:sristi.paul.official@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2b2100?style=for-the-badge&logo=gmail&logoColor=FBBF24&labelColor=2b2100" alt="Email"/>
-</a>
-</p>
