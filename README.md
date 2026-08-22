@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ⚡ TOP BANNER — capsule-render, emerald/electric gradient ⚡ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2818,50:14532d,100:34d399&height=220&section=header&text=Sristi%20Paul&fontSize=55&fontColor=A7F3D0&animation=fadeIn&fontAlignY=38&desc=ECE%20Undergrad%20%7C%20Software%20Engineer%20%7C%20IoT%20Explorer&descAlignY=58&descSize=18" />
+<!-- ⚡ TOP BANNER — custom glowing SVG, lives in ./assets/banner.svg ⚡ -->
+<img width="100%" src="./assets/banner.svg" alt="Sristi Paul banner" />
 
 <!--
   🐾 DROP YOUR OWN PIKACHU GIF HERE 🐾
@@ -11,16 +11,16 @@
   <img src="PASTE_YOUR_PIKACHU_GIF_LINK_HERE" width="140" />
 -->
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=34D399&center=true&vCenter=true&width=650&height=60&lines=Hey+there%2C+Trainer!+I'm+Sristi+%E2%9A%A1;Catching+bugs+%26+leveling+up+code+%F0%9F%9A%80;ECE+%2B+Software+%2B+IoT+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=34D399&center=true&vCenter=true&width=650&height=50&lines=Hey+there%2C+Trainer!+I'm+Sristi+%E2%9A%A1;Catching+bugs+%26+leveling+up+code+%F0%9F%9A%80;ECE+%2B+Software+%2B+IoT+%3D+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 </div>
 
 <br/>
 
-## 💫 About Me
+## ⚡ About Me
 
 ```yaml
 trainer:
@@ -75,7 +75,7 @@ trainer:
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 📊 GitHub Stats
 
