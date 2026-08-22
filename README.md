@@ -17,6 +17,18 @@ currently: "Building projects & leveling up skills"
 - <img src="./asset/telescope.svg" width="16" alt=""/> I love building projects that bridge **hardware + software**
 - <img src="./asset/sprout.svg" width="16" alt=""/> Constantly exploring new technologies & GenAI tools
 - <img src="./asset/bolt.svg" width="16" alt=""/> Building AgroSmart with care for farmers
+- <img src="./asset/mail.svg" width="16" alt=""/> Reach me — see badges below!
+
+## <img src="./asset/mail.svg" width="22" alt=""/> Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sristi-paul-530037279/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-2b2100?style=for-the-badge&logo=linkedin&logoColor=FBBF24&labelColor=2b2100" alt="LinkedIn"/>
+</a>
+<a href="mailto:sristi.paul.official@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2b2100?style=for-the-badge&logo=gmail&logoColor=FBBF24&labelColor=2b2100" alt="Email"/>
+</a>
+</p>
 
 ## <img src="./asset/gear.svg" width="22" alt=""/> Tech Stack
 
@@ -29,7 +41,7 @@ currently: "Building projects & leveling up skills"
 </div>
 
 <details>
-
+<summary>Full tech badge list</summary>
 <br>
 
 ![C](https://img.shields.io/badge/c-2b2100.svg?style=for-the-badge&logo=c&logoColor=FBBF24&labelColor=2b2100)
@@ -71,3 +83,15 @@ currently: "Building projects & leveling up skills"
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+[![Profile views](https://komarev.com/ghpvc/?username=IamSristi&icon=0&color=FBBF24&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
+
+<sub><img src="./asset/bolt.svg" width="12" alt=""/> Proudly leveled up with <a href="https://gprm.itsvg.in">GPRM</a> <img src="./asset/bolt.svg" width="12" alt=""/></sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,50:7a5c00,100:110b00&height=100&section=footer" />
+
+</div>
