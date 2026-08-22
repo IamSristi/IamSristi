@@ -98,11 +98,6 @@ currently: "Building projects & leveling up skills"
 
 </div>
 
-## 🏆 Trophy Case
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IamSristi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
 
 ## 🐍 Contribution Snake
 
