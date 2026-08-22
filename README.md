@@ -14,10 +14,10 @@
 currently: "Building projects & leveling up skills"
 ```
 
-- • Continuously learning Java, C++, Python, Web Development, and GenAI
-- • Experienced with tools and technologies like Git, GitHub, Figma, HTML, CSS, and JavaScript
-- • Enjoy turning ideas into practical, meaningful projects
-- • Value teamwork, communication, and collaborative problem-solving
+-  Continuously learning Java, C++, Python, Web Development, and GenAI
+-  Experienced with tools and technologies like Git, GitHub, Figma, HTML, CSS, and JavaScript
+-  Enjoy turning ideas into practical, meaningful projects
+-  Value teamwork, communication, and collaborative problem-solving
 
 
 ## <img src="./asset/gear.svg" width="22" alt=""/> Tech Stack
