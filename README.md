@@ -59,7 +59,7 @@ currently: "Building projects & leveling up skills"
 ![Git](https://img.shields.io/badge/git-2b2100.svg?style=for-the-badge&logo=git&logoColor=FBBF24&labelColor=2b2100)
 ![GitHub](https://img.shields.io/badge/github-2b2100.svg?style=for-the-badge&logo=github&logoColor=FBBF24&labelColor=2b2100)
 
-</details>
+
 
 ## 📊 GitHub Stats
 
