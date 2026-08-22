@@ -8,10 +8,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=FFD43B&center=true&vCenter=true&width=700&height=55&lines=Hey+there%2C+Trainer!+I'm+Sristi+%E2%9A%A1;Catching+bugs+%26+leveling+up+code+%F0%9F%90%9B;ECE+%2B+Software+%2B+IoT+%3D+%E2%9A%A1;Building%2C+learning%2C+and+leveling+up+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br>
-
 <img src="./asset/divider.svg" width="100%" alt="divider"/>
 
 </div>
