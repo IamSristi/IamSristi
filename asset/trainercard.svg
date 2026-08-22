@@ -29,7 +29,7 @@
 
   <!-- ID text -->
   <text x="175" y="46" font-family="Verdana, sans-serif" font-size="22" font-weight="700" fill="#D1FAE5">SRISTI PAUL</text>
-  <text x="175" y="68" font-family="Consolas, monospace" font-size="13" fill="#86EFAC">Class: ECE Undergraduate  •  Region: IoT &amp; Software</text>
+  <text x="175" y="68" font-family="Consolas, monospace" font-size="13" fill="#86EFAC">Class: ECE Undergraduate  •  Region: Programming</text>
 
   <!-- type badges -->
   <g font-family="Verdana, sans-serif" font-size="12" font-weight="700" fill="#03110a">
