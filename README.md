@@ -33,7 +33,7 @@ currently: "Building projects & leveling up skills"
 ## ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,jspy,html,css,figma,firebase,vercel,git,github&theme=dark" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,figma,firebase,vercel,git,github&theme=dark" alt="tech stack icons" />
 </p>
 
 <div align="center">
