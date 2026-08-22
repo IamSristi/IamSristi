@@ -29,7 +29,7 @@ currently: "Building projects & leveling up skills"
 </div>
 
 <details>
-<summary>Full tech badge list</summary>
+
 <br>
 
 ![C](https://img.shields.io/badge/c-2b2100.svg?style=for-the-badge&logo=c&logoColor=FBBF24&labelColor=2b2100)
