@@ -8,7 +8,6 @@
 
 <table>
 <tr>
-<div align="center">
 
 <td width="35%" align="center">
 <img src="./asset/Running-Pikachu-GIF.webp" width="170" alt="Running Pikachu" />
@@ -89,7 +88,7 @@ currently: "Building projects & leveling up skills"
 
 [![Profile views](https://komarev.com/ghpvc/?username=IamSristi&icon=0&color=FBBF24&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
-<sub>⚡ Proudly leveled up with <a href="https://gprm.itsvg.in">GPRM</a> ⚡</sub>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,50:7a5c00,100:110b00&height=120&section=footer" />
 
