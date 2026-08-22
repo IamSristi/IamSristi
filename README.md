@@ -16,8 +16,7 @@ currently: "Building projects & leveling up skills"
 
 - <img src="./asset/icons/telescope.svg" width="16" alt=""/> I love building projects that bridge **hardware + software**
 - <img src="./asset/icons/sprout.svg" width="16" alt=""/> Constantly exploring new technologies & GenAI tools
-- <img src="./asset/icons/bolt.svg" width="16" alt=""/> Powered by curiosity, caffeine, and clean code
-- <img src="./asset/icons/mail.svg" width="16" alt=""/> Reach me — see badges below!
+- <img src="./asset/icons/bolt.svg" width="16" alt=""/> Building AgroSmart with care for farmers
 
 ## <img src="./asset/icons/gear.svg" width="22" alt=""/> Tech Stack
 
