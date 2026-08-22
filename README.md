@@ -1,10 +1,23 @@
 <div align="center">
 <img width="100%" src="./asset/banner.svg" alt="Sristi Paul banner" />
 <br>
-<img src="./asset/Running-Pikachu-GIF.webp" width="170" alt="Running Pikachu" />
-<br>
 <img src="./asset/divider.svg" width="100%" alt="divider"/>
 </div>
+
+<br>
+
+<table>
+<tr>
+<td width="35%" align="center">
+<img src="./asset/Running-Pikachu-GIF.webp" width="170" alt="Running Pikachu" />
+</td>
+<td width="65%" align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Consolas&size=20&pause=1500&color=FBBF24&center=true&vCenter=true&width=440&height=60&lines=Code+fails.+I+learn.+I+try+again.;Building+projects+%26+leveling+up+skills.;Powered+by+curiosity%2C+caffeine%2C+clean+code." alt="Typing quote" />
+</td>
+</tr>
+</table>
+
+<br>
 
 ## ⚡ About Me
 
@@ -25,10 +38,10 @@ currently: "Building projects & leveling up skills"
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sristi-paul-530037279/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0f2818?style=for-the-badge&logo=linkedin&logoColor=34D399&labelColor=0f2818" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-2b2100?style=for-the-badge&logo=linkedin&logoColor=FBBF24&labelColor=2b2100" alt="LinkedIn"/>
 </a>
 <a href="mailto:sristi.paul.official@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f2818?style=for-the-badge&logo=gmail&logoColor=34D399&labelColor=0f2818" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-2b2100?style=for-the-badge&logo=gmail&logoColor=FBBF24&labelColor=2b2100" alt="Email"/>
 </a>
 </p>
 
@@ -46,50 +59,42 @@ currently: "Building projects & leveling up skills"
 <summary>📌 Full tech badge list</summary>
 <br>
 
-![C](https://img.shields.io/badge/c-0f2818.svg?style=for-the-badge&logo=c&logoColor=34D399&labelColor=0f2818)
-![C++](https://img.shields.io/badge/c++-0f2818.svg?style=for-the-badge&logo=c%2B%2B&logoColor=34D399&labelColor=0f2818)
-![Java](https://img.shields.io/badge/java-0f2818.svg?style=for-the-badge&logo=openjdk&logoColor=34D399&labelColor=0f2818)
-![Python](https://img.shields.io/badge/python-0f2818?style=for-the-badge&logo=python&logoColor=34D399&labelColor=0f2818)
-![HTML5](https://img.shields.io/badge/html5-0f2818.svg?style=for-the-badge&logo=html5&logoColor=34D399&labelColor=0f2818)
-![CSS3](https://img.shields.io/badge/css3-0f2818.svg?style=for-the-badge&logo=css3&logoColor=34D399&labelColor=0f2818)
-![JavaScript](https://img.shields.io/badge/javascript-0f2818.svg?style=for-the-badge&logo=javascript&logoColor=34D399&labelColor=0f2818)
-![Figma](https://img.shields.io/badge/figma-0f2818.svg?style=for-the-badge&logo=figma&logoColor=34D399&labelColor=0f2818)
-![Firebase](https://img.shields.io/badge/firebase-0f2818.svg?style=for-the-badge&logo=firebase&logoColor=34D399&labelColor=0f2818)
-![Vercel](https://img.shields.io/badge/vercel-0f2818.svg?style=for-the-badge&logo=vercel&logoColor=34D399&labelColor=0f2818)
-![GenAI](https://img.shields.io/badge/GenAI-0f2818.svg?style=for-the-badge&logo=openai&logoColor=34D399&labelColor=0f2818)
-![Git](https://img.shields.io/badge/git-0f2818.svg?style=for-the-badge&logo=git&logoColor=34D399&labelColor=0f2818)
-![GitHub](https://img.shields.io/badge/github-0f2818.svg?style=for-the-badge&logo=github&logoColor=34D399&labelColor=0f2818)
+![C](https://img.shields.io/badge/c-2b2100.svg?style=for-the-badge&logo=c&logoColor=FBBF24&labelColor=2b2100)
+![C++](https://img.shields.io/badge/c++-2b2100.svg?style=for-the-badge&logo=c%2B%2B&logoColor=FBBF24&labelColor=2b2100)
+![Java](https://img.shields.io/badge/java-2b2100.svg?style=for-the-badge&logo=openjdk&logoColor=FBBF24&labelColor=2b2100)
+![Python](https://img.shields.io/badge/python-2b2100?style=for-the-badge&logo=python&logoColor=FBBF24&labelColor=2b2100)
+![HTML5](https://img.shields.io/badge/html5-2b2100.svg?style=for-the-badge&logo=html5&logoColor=FBBF24&labelColor=2b2100)
+![CSS3](https://img.shields.io/badge/css3-2b2100.svg?style=for-the-badge&logo=css3&logoColor=FBBF24&labelColor=2b2100)
+![Figma](https://img.shields.io/badge/figma-2b2100.svg?style=for-the-badge&logo=figma&logoColor=FBBF24&labelColor=2b2100)
+![Firebase](https://img.shields.io/badge/firebase-2b2100.svg?style=for-the-badge&logo=firebase&logoColor=FBBF24&labelColor=2b2100)
+![Vercel](https://img.shields.io/badge/vercel-2b2100.svg?style=for-the-badge&logo=vercel&logoColor=FBBF24&labelColor=2b2100)
+![JavaScript](https://img.shields.io/badge/javascript-2b2100.svg?style=for-the-badge&logo=javascript&logoColor=FBBF24&labelColor=2b2100)
+![GenAI](https://img.shields.io/badge/GenAI-2b2100.svg?style=for-the-badge&logo=openai&logoColor=FBBF24&labelColor=2b2100)
+![Git](https://img.shields.io/badge/git-2b2100.svg?style=for-the-badge&logo=git&logoColor=FBBF24&labelColor=2b2100)
+![GitHub](https://img.shields.io/badge/github-2b2100.svg?style=for-the-badge&logo=github&logoColor=FBBF24&labelColor=2b2100)
 
 </details>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamSristi&theme=github-dark&hide_border=true&bg_color=0f2818&color=34D399&line=6EE7B7&point=A7F3D0" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamSristi&hide_border=true&bg_color=1a1400&color=FBBF24&line=FDE68A&point=FEF3C7&title_color=FDE68A" width="100%"/>
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-</div>
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<img src="https://raw.githubusercontent.com/IamSristi/IamSristi/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 </div>
 
 ---
 
 <div align="center">
 
-[![Profile views](https://komarev.com/ghpvc/?username=IamSristi&icon=0&color=34D399&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
+[![Profile views](https://komarev.com/ghpvc/?username=IamSristi&icon=0&color=FBBF24&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
 <sub>⚡ Proudly leveled up with <a href="https://gprm.itsvg.in">GPRM</a> ⚡</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,50:14532d,100:0f2818&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,50:7a5c00,100:110b00&height=120&section=footer" />
 
 </div>
