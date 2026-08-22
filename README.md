@@ -4,7 +4,6 @@
 <img src="./asset/divider.svg" width="100%" alt="divider"/>
 </div>
 
-
 ## ⚡ About Me
 
 <div align="center">
@@ -42,7 +41,7 @@ currently: "Building projects & leveling up skills"
 </div>
 
 <details>
-
+<summary>📌 Full tech badge list</summary>
 <br>
 
 ![C](https://img.shields.io/badge/c-2b2100.svg?style=for-the-badge&logo=c&logoColor=FBBF24&labelColor=2b2100)
@@ -59,7 +58,7 @@ currently: "Building projects & leveling up skills"
 ![Git](https://img.shields.io/badge/git-2b2100.svg?style=for-the-badge&logo=git&logoColor=FBBF24&labelColor=2b2100)
 ![GitHub](https://img.shields.io/badge/github-2b2100.svg?style=for-the-badge&logo=github&logoColor=FBBF24&labelColor=2b2100)
 
-<details>
+</details>
 
 ## 📊 GitHub Stats
 
@@ -68,10 +67,6 @@ currently: "Building projects & leveling up skills"
 </div>
 
 ---
-
-<div align="center">
-
-</div>
 
 <br>
 
@@ -88,5 +83,3 @@ currently: "Building projects & leveling up skills"
 </td>
 </tr>
 </table>
-
-<br>
