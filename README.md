@@ -89,11 +89,6 @@ currently: "Building projects & leveling up skills"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamSristi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f2818&title_color=34D399&icon_color=6EE7B7&text_color=A7F3D0&include_all_commits=false&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSristi&layout=compact&theme=github_dark&hide_border=true&bg_color=0f2818&title_color=34D399&text_color=A7F3D0&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IamSristi&theme=dark&hide_border=true&background=0f2818&stroke=34D399&ring=34D399&fire=6EE7B7&currStreakLabel=34D399&sideLabels=A7F3D0&currStreakNum=A7F3D0&sideNums=A7F3D0&dates=6EE7B7" width="48%"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamSristi&theme=github-dark&hide_border=true&bg_color=0f2818&color=34D399&line=6EE7B7&point=A7F3D0" width="100%"/>
 
 </div>
