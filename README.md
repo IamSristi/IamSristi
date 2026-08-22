@@ -83,7 +83,6 @@ currently: "Building projects & leveling up skills"
 
 </details>
 
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 ## 📊 GitHub Stats
 
