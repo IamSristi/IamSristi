@@ -34,16 +34,16 @@
   <!-- type badges -->
   <g font-family="Verdana, sans-serif" font-size="12" font-weight="700" fill="#03110a">
     <rect x="175" y="82" width="88" height="26" rx="13" fill="#FBBF24"/>
-    <text x="219" y="99" text-anchor="middle">⚡ Programming</text>
+    <text x="219" y="99" text-anchor="middle">JAVA</text>
 
     <rect x="271" y="82" width="76" height="26" rx="13" fill="#60A5FA"/>
-    <text x="309" y="99" text-anchor="middle">🌐 Design</text>
+    <text x="309" y="99" text-anchor="middle">DSA</text>
 
     <rect x="355" y="82" width="82" height="26" rx="13" fill="#C084FC"/>
-    <text x="396" y="99" text-anchor="middle">✨ IoT</text>
+    <text x="396" y="99" text-anchor="middle">OOPs</text>
 
     <rect x="445" y="82" width="94" height="26" rx="13" fill="#34D399"/>
-    <text x="492" y="99" text-anchor="middle">💻 CS Fundamentals</text>
+    <text x="492" y="99" text-anchor="middle">IoT</text>
   </g>
 
   <!-- badges/achievements row -->
