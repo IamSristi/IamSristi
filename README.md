@@ -83,7 +83,7 @@ currently: "Building projects & leveling up skills"
 <td width="50%" align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Consolas&size=20&pause=1500&color=FBBF24&center=true&vCenter=true&width=440&height=60&lines=Code+fails.+I+learn.+I+try+again.;Building+projects+%26+leveling+up+skills.;Powered+by+curiosity%2C+caffeine%2C+clean+code." alt="Typing quote" />
 </td>
-<td width="25%" align="center">
+<td width="35%" align="center">
 <img src="./asset/pokeball.svg" width="90" alt="Spinning pokeball" />
 </td>
 </tr>
