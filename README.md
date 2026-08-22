@@ -18,7 +18,7 @@ currently: "Building projects & leveling up skills"
 - <img src="./asset/sprout.svg" width="16" alt=""/> Constantly exploring new technologies & GenAI tools
 - <img src="./asset/bolt.svg" width="16" alt=""/> Building AgroSmart with care for farmers
 
-## <img src="./asset/icons/gear.svg" width="22" alt=""/> Tech Stack
+## <img src="./asset/gear.svg" width="22" alt=""/> Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,figma,firebase,vercel,git,github&theme=dark" alt="tech stack icons" />
