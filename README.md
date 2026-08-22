@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ⚡ TOP BANNER — custom glowing SVG, lives in ./assets/banner.svg ⚡ -->
-<img width="100%" src="./assets/banner.svg" alt="Sristi Paul banner" />
+<img width="100%" src="./assets/banner.svg" alt="banner" />
 
 <!--
   🐾 DROP YOUR OWN PIKACHU GIF HERE 🐾
