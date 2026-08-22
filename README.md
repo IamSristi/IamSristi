@@ -64,7 +64,7 @@ currently: "Building projects & leveling up skills"
 </div>
 
 <details>
-<summary>💠 Badge view</summary>
+
 <br>
 
 ![C](https://img.shields.io/badge/c-0f2818.svg?style=for-the-badge&logo=c&logoColor=34D399&labelColor=0f2818)
