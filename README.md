@@ -14,10 +14,10 @@
 currently: "Building projects & leveling up skills"
 ```
 
-- <img src="./asset/telescope.svg" width="16" alt=""/> Continuously learning Java, C++, Python, Web Development, and GenAI
-- <img src="./asset/sprout.svg" width="16" alt=""/> Experienced with tools and technologies like Git, GitHub, Figma, HTML, CSS, and JavaScript
+- <img src="./asset/bolt.svg" width="16" alt=""/> Continuously learning Java, C++, Python, Web Development, and GenAI
+- <img src="./asset/bolt.svg" width="16" alt=""/> Experienced with tools and technologies like Git, GitHub, Figma, HTML, CSS, and JavaScript
 - <img src="./asset/bolt.svg" width="16" alt=""/> Enjoy turning ideas into practical, meaningful projects
-- <img src="./asset/mail.svg" width="16" alt=""/> Value teamwork, communication, and collaborative problem-solving
+- <img src="./asset/bolt.svg" width="16" alt=""/> Value teamwork, communication, and collaborative problem-solving
 
 
 ## <img src="./asset/gear.svg" width="22" alt=""/> Tech Stack
