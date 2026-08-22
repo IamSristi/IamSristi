@@ -22,9 +22,6 @@ currently: "Building projects & leveling up skills"
 
 ## <img src="./asset/gear.svg" width="20" height="20" alt=""/> Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,figma,firebase,vercel,git,github&theme=dark" alt="tech stack icons" />
-</p>
 
 <div align="center">
 <img src="./asset/skilldex.svg" width="80%" alt="skill dex stat bars" />
