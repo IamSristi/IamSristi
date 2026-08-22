@@ -86,10 +86,4 @@ currently: "Building projects & leveling up skills"
 
 <div align="center">
 
-[![Profile views](https://komarev.com/ghpvc/?username=IamSristi&icon=0&color=FBBF24&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,50:7a5c00,100:110b00&height=120&section=footer" />
-
 </div>
