@@ -4,7 +4,7 @@
 <img src="./asset/divider.svg" width="100%" alt="divider"/>
 </div>
 
-## ⚡ About Me
+## <img src="./asset/icons/bolt.svg" width="22" alt=""/> About Me
 
 <div align="center">
 <img src="./asset/trainercard.svg" width="100%" alt="trainer card" />
@@ -14,13 +14,12 @@
 currently: "Building projects & leveling up skills"
 ```
 
-- 🔭 I love building projects that bridge **hardware + software**
-- 🌱 Constantly exploring new technologies & GenAI tools
-- ⚡ Powered by curiosity, caffeine, and clean code
-- 📫 Reach me — see badges below!
+- <img src="./asset/icons/telescope.svg" width="16" alt=""/> I love building projects that bridge **hardware + software**
+- <img src="./asset/icons/sprout.svg" width="16" alt=""/> Constantly exploring new technologies & GenAI tools
+- <img src="./asset/icons/bolt.svg" width="16" alt=""/> Powered by curiosity, caffeine, and clean code
+- <img src="./asset/icons/mail.svg" width="16" alt=""/> Reach me — see badges below!
 
-
-## ⚙️ Tech Stack
+## <img src="./asset/icons/gear.svg" width="22" alt=""/> Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,figma,firebase,vercel,git,github&theme=dark" alt="tech stack icons" />
@@ -31,7 +30,7 @@ currently: "Building projects & leveling up skills"
 </div>
 
 <details>
-
+<summary>Full tech badge list</summary>
 <br>
 
 ![C](https://img.shields.io/badge/c-2b2100.svg?style=for-the-badge&logo=c&logoColor=FBBF24&labelColor=2b2100)
@@ -50,7 +49,7 @@ currently: "Building projects & leveling up skills"
 
 </details>
 
-## 📊 GitHub Stats
+## <img src="./asset/icons/chart.svg" width="22" alt=""/> GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamSristi&hide_border=true&bg_color=1a1400&color=FBBF24&line=FDE68A&point=FEF3C7&title_color=FDE68A" width="100%"/>
@@ -73,4 +72,3 @@ currently: "Building projects & leveling up skills"
 </td>
 </tr>
 </table>
-
