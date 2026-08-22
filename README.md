@@ -4,7 +4,7 @@
 <img src="./asset/divider.svg" width="100%" alt="divider"/>
 </div>
 
-## <img src="./asset/icons/bolt.svg" width="22" alt=""/> About Me
+## <img src="./asset/bolt.svg" width="22" alt=""/> About Me
 
 <div align="center">
 <img src="./asset/trainercard.svg" width="100%" alt="trainer card" />
