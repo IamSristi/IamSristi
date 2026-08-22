@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ⚡ TOP BANNER — custom glowing SVG, lives in ./assets/banner.svg ⚡ -->
-<img width="100%" src="./assets/banner.svg" alt="banner" />
+<img width="100%" src="banner.svg" alt="banner" />
 
 <!--
   🐾 DROP YOUR OWN PIKACHU GIF HERE 🐾
@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=34D399&center=true&vCenter=true&width=650&height=50&lines=Hey+there%2C+Trainer!+I'm+Sristi+%E2%9A%A1;Catching+bugs+%26+leveling+up+code+%F0%9F%9A%80;ECE+%2B+Software+%2B+IoT+%3D+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="divider.svg" width="100%" alt="divider"/>
 
 </div>
 
