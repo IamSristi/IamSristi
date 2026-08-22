@@ -1,1 +1,13 @@
-
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(100,100)">
+    <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="2.2s" repeatCount="indefinite" additive="sum"/>
+    <g transform="translate(-70,-70)">
+      <path d="M70 8 A62 62 0 0 1 132 70 L8 70 A62 62 0 0 1 70 8 Z" fill="#FBBF24"/>
+      <path d="M70 132 A62 62 0 0 1 8 70 L132 70 A62 62 0 0 1 70 132 Z" fill="#FFFBEB"/>
+      <circle cx="70" cy="70" r="62" fill="none" stroke="#110b00" stroke-width="4"/>
+      <rect x="8" y="66" width="124" height="8" fill="#110b00"/>
+      <circle cx="70" cy="70" r="20" fill="#FFFBEB" stroke="#110b00" stroke-width="4"/>
+      <circle cx="70" cy="70" r="9" fill="#FBBF24" stroke="#110b00" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
