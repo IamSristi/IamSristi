@@ -90,7 +90,7 @@ currently: "Building projects & leveling up skills"
 
 [![Profile views](https://komarev.com/ghpvc/?username=IamSristi&icon=0&color=FBBF24&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
-<sub><img src="./asset/bolt.svg" width="12" alt=""/> Connect with me via<a href="https://www.linkedin.com/in/sristi-paul-530037279/n">LINKEDIN</a> <img src="./asset/bolt.svg" width="12" alt=""/></sub>
+<sub><img src="./asset/bolt.svg" width="12" alt=""/> Connect with me via <a href="https://www.linkedin.com/in/sristi-paul-530037279/n">LinkedIN</a> <img src="./asset/bolt.svg" width="12" alt=""/></sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,50:7a5c00,100:110b00&height=100&section=footer" />
 
