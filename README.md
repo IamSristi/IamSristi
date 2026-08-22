@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./asset/pikachu.gif" width="170" alt="Running Pikachu" />
+<img src="./asset/Running-Pikachu-GIF.webp" width="170" alt="Running Pikachu" />
 
 <br>
 
