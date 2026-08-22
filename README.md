@@ -20,7 +20,7 @@ currently: "Building projects & leveling up skills"
 -  Value teamwork, communication, and collaborative problem-solving
 
 
-## <img src="./asset/gear.svg" width="22" alt=""/> Tech Stack
+## <img src="./asset/gear.svg" width="30" alt=""/> Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,figma,firebase,vercel,git,github&theme=dark" alt="tech stack icons" />
