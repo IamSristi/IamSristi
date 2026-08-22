@@ -50,7 +50,7 @@
   <text x="450" y="112" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="52" font-weight="700" fill="#FDE68A" filter="url(#textGlow)">SRISTI PAUL</text>
   <text x="450" y="112" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="52" font-weight="700" fill="#FFFBEB">SRISTI PAUL</text>
   <!-- subtitle -->
-  <text x="450" y="150" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#FCD34D">ECE Undergrad  •  Software Engineer  •  IoT Explorer</text>
+  <text x="450" y="150" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#FCD34D">ECE Undergrad  •  Programmer  •  IoT Explorer</text>
   <!-- animated underline sweep -->
   <rect y="172" height="3" rx="1.5" fill="#FBBF24" filter="url(#softGlow)">
     <animate attributeName="x" values="450;330;330;450" keyTimes="0;0.4;0.8;1" dur="4s" repeatCount="indefinite"/>
