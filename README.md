@@ -1,25 +1,16 @@
 <div align="center">
-
 <img width="100%" src="./asset/banner.svg" alt="Sristi Paul banner" />
-
 <br>
-
 <img src="./asset/Running-Pikachu-GIF.webp" width="170" alt="Running Pikachu" />
-
 <br>
-
 <img src="./asset/divider.svg" width="100%" alt="divider"/>
-
 </div>
-
-<br>
 
 ## ⚡ About Me
 
 <div align="center">
 <img src="./asset/trainercard.svg" width="100%" alt="trainer card" />
 </div>
-<br/>
 
 ```yaml
 currently: "Building projects & leveling up skills"
@@ -29,8 +20,6 @@ currently: "Building projects & leveling up skills"
 - 🌱 Constantly exploring new technologies & GenAI tools
 - ⚡ Powered by curiosity, caffeine, and clean code
 - 📫 Reach me — see badges below!
-
-<br clear="right"/>
 
 ## 🌐 Connect With Me
 
@@ -54,7 +43,7 @@ currently: "Building projects & leveling up skills"
 </div>
 
 <details>
-
+<summary>📌 Full tech badge list</summary>
 <br>
 
 ![C](https://img.shields.io/badge/c-0f2818.svg?style=for-the-badge&logo=c&logoColor=34D399&labelColor=0f2818)
@@ -73,27 +62,23 @@ currently: "Building projects & leveling up skills"
 
 </details>
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamSristi&theme=github-dark&hide_border=true&bg_color=0f2818&color=34D399&line=6EE7B7&point=A7F3D0" width="100%"/>
-
 </div>
-
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </div>
 
 ## ✍️ Random Dev Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -101,7 +86,7 @@ currently: "Building projects & leveling up skills"
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=IamSristi&icon=0&color=34D399&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
+[![Profile views](https://komarev.com/ghpvc/?username=IamSristi&icon=0&color=34D399&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
 <sub>⚡ Proudly leveled up with <a href="https://gprm.itsvg.in">GPRM</a> ⚡</sub>
 
