@@ -66,7 +66,7 @@ currently: "Building projects & leveling up skills"
 <img src="https://readme-typing-svg.demolab.com/?font=Consolas&size=24&pause=1500&color=FBBF24&center=true&vCenter=true&width=600&height=110&lines=Code+fails.+I+learn.+I+try+again.;Building+projects+%26+leveling+up+skills.;Powered+by+curiosity%2C+caffeine%2C+clean+code." alt="Typing quote" />
 </td>
 <td width="20%" align="center">
-<img src="./asset/pokeball.svg" height="110" alt="Spinning pokeball" />
+<img src="./asset/pokeball.svg" height="90" alt="Spinning pokeball" />
 </td>
 </tr>
 </table>
