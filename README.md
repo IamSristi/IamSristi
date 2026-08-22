@@ -14,9 +14,9 @@
 currently: "Building projects & leveling up skills"
 ```
 
-- <img src="./asset/icons/telescope.svg" width="16" alt=""/> I love building projects that bridge **hardware + software**
-- <img src="./asset/icons/sprout.svg" width="16" alt=""/> Constantly exploring new technologies & GenAI tools
-- <img src="./asset/icons/bolt.svg" width="16" alt=""/> Building AgroSmart with care for farmers
+- <img src="./asset/telescope.svg" width="16" alt=""/> I love building projects that bridge **hardware + software**
+- <img src="./asset/sprout.svg" width="16" alt=""/> Constantly exploring new technologies & GenAI tools
+- <img src="./asset/bolt.svg" width="16" alt=""/> Building AgroSmart with care for farmers
 
 ## <img src="./asset/icons/gear.svg" width="22" alt=""/> Tech Stack
 
@@ -48,7 +48,7 @@ currently: "Building projects & leveling up skills"
 
 </details>
 
-## <img src="./asset/icons/chart.svg" width="22" alt=""/> GitHub Stats
+## <img src="./asset/chart.svg" width="22" alt=""/> GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamSristi&hide_border=true&bg_color=1a1400&color=FBBF24&line=FDE68A&point=FEF3C7&title_color=FDE68A" width="100%"/>
