@@ -47,13 +47,6 @@ currently: "Building projects & leveling up skills"
 
 </details>
 
-## <img src="./asset/chart.svg" width="22" alt=""/> GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamSristi&hide_border=true&bg_color=1a1400&color=FBBF24&line=FDE68A&point=FEF3C7&title_color=FDE68A" width="100%"/>
-</div>
-
----
 
 <br>
 
